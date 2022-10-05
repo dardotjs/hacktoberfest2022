@@ -60,3 +60,13 @@ Add your name to the `README.md` file using the below convention:
 - Email: name@example.com
 - GitHub: [GitHub account user name](GitHub link)
 ```
+
+
+## Contributors 
+
+### Name: [Alpha Olomi](http://github.com/alphaolomi)
+
+- Place: Dar, Tanzania
+- Bio: Software Developer
+- Email: hello@alphaolomi.com
+- GitHub: [@alphaolomi](http://github.com/alphaolomi)
