@@ -1,5 +1,12 @@
 # Hacktoberfest | DarJS Edition
 
+### Name: [Shanas](https://github.com/mrshanas)
+
+- Place: Dar es Salaam, Tanzania
+- Bio: I'm a software developer who loves Python and Typescript
+- Email: nassibshaban345@gmail.com
+- GitHub: [mrshanas](https://github.com/mrshanas)
+
 ## What is Hacktoberfest?
 
 Hacktoberfest is a annual event, month-long celebration that encourages people to contribute to open source software. Started originally by our friends at [DigitalOcean](http://digitalocean.com)
